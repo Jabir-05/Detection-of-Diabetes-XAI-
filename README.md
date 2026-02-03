@@ -4,7 +4,7 @@
 
 This repository contains a **fully working, interactive web application** that predicts the risk of diabetes using a machine learning model and provides **explainable AI (XAI)** insights using SHAP (SHapley Additive exPlanations).
 
-🔗 Live Demo: https://diabetes-xai-d9j38jmen65mn4hk3zksmu.streamlit.app/
+🔗 Live Demo: https://jabir-05-detection-of-diabetes-xai--app-zgaclk.streamlit.app/
 
 ---
 
@@ -132,7 +132,7 @@ SHAP outputs the contribution of each feature to the predicted risk for the curr
 
 🎉 The app is deployed online using Streamlit Cloud:
 
- [https://diabetes-xai-d9j38jmen65mn4hk3zksmu.streamlit.app/](https://diabetes-xai-d9j38jmen65mn4hk3zksmu.streamlit.app/)
+ [https://jabir-05-detection-of-diabetes-xai--app-zgaclk.streamlit.app/](https://jabir-05-detection-of-diabetes-xai--app-zgaclk.streamlit.app/)
 
 Users can interact with the model in real-time via the web.
 
