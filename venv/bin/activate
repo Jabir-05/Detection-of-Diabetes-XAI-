@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/jabirimteyaz/Desktop/diabetes-xai/venv"
+VIRTUAL_ENV="/Users/jabirimteyaz/Desktop/Detection-of-Diabetes-XAI-/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
